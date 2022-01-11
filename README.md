@@ -4,3 +4,4 @@ This is a self made solidity repository based on many solidity tutorials and tas
 Resources:
 1) https://www.youtube.com/watch?v=ipwxYa-F1uY&t=4182s
 2) https://www.youtube.com/watch?v=M576WGiDBdQ
+3) https://cryptozombies.io/en/course/
